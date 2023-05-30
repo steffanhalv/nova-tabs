@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Eminiarts\Tabs\Traits;
+namespace Unox\Tabs\Traits;
 
-use Eminiarts\Tabs\Tabs;
+use Unox\Tabs\Tabs;
 use Illuminate\Support\Collection;
 use Laravel\Nova\Contracts\BehavesAsPanel;
 use Laravel\Nova\Fields\FieldCollection;
