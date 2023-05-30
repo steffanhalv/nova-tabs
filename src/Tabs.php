@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Unox\Tabs;
 
 use Closure;
-use Eminiarts\Tabs\Contracts\TabContract;
+use Unox\Tabs\Contracts\TabContract;
 use Illuminate\Http\Resources\MergeValue;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
