@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Eminiarts\Tabs\Contracts;
+namespace Unox\Tabs\Contracts;
 
 use Closure;
 
